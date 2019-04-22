@@ -1,0 +1,12 @@
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp2.2\CleanArchitecture.Application.deps.json
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp2.2\CleanArchitecture.Application.dll
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp2.2\CleanArchitecture.Application.pdb
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp2.2\CleanArchitecture.Domain.dll
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netcoreapp2.2\CleanArchitecture.Domain.pdb
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp2.2\CleanArchitecture.Application.csprojAssemblyReference.cache
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp2.2\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp2.2\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp2.2\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp2.2\CleanArchitecture.Application.csproj.CopyComplete
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp2.2\CleanArchitecture.Application.dll
+C:\Users\sy\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netcoreapp2.2\CleanArchitecture.Application.pdb
